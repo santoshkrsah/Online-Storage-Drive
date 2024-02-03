@@ -1,2 +1,14 @@
 # Online-Storage-drive
-This Code is only for Learning purpose and it is also in working 
+This Code is only for Learning purposes and it is also working 
+**Version 2.0.5**
+Bug Fixes
+Show files in "trash", "shared", "starred" and "recent" pages, if parent folder of those files is not marked for those pages.
+Use regular file or folder context menu in "starred" and "recent" page.
+Fix "download" button in generic file preview overlay.
+Fix "undo" button on file delete notification message.
+Fix broken photoshop file preview icon.
+Correctly generate zip file structure when downloading multiple files or folders.
+Remove all user files when user is deleted from admin area.
+Add several missing translation lines.
+New Features
+Built in contact page with google recaptcha integration.
