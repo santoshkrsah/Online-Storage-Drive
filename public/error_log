@@ -1,0 +1,17 @@
+[30-Jan-2024 22:46:34 UTC] PHP Warning:  Uncaught Error: Object of class UnwindExit could not be converted to string in /home3/rnsinpcq/drive.santoshkr.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:13
+Stack trace:
+#0 /home3/rnsinpcq/drive.santoshkr.in/vendor/composer/ClassLoader.php(444): include()
+#1 /home3/rnsinpcq/drive.santoshkr.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home3/rnsinpcq...')
+#2 /home3/rnsinpcq/drive.santoshkr.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(24): Composer\Autoload\ClassLoader->loadClass('Illuminate\\Cont...')
+#3 /home3/rnsinpcq/drive.santoshkr.in/vendor/composer/ClassLoader.php(444): include('/home3/rnsinpcq...')
+#4 /home3/rnsinpcq/drive.santoshkr.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home3/rnsinpcq...')
+#5 /home3/rnsinpcq/drive.santoshkr.in/bootstrap/app.php(14): Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#6 /home3/rnsinpcq/drive.santoshkr.in/public/install_files/php/Installer.php(395): require_once('/home3/rnsinpcq...')
+#7 /home3/rnsinpcq/drive.santoshkr.in/public/install_files/php/Installer.php(173): Installer->bootFramework()
+#8 /home3/rnsinpcq/drive.santoshkr.in/public/install_files/php/Installer.php(69): Installer->createDb(Array)
+#9 /home3/rnsinpcq/drive.santoshkr.in/public/install_files/php/boot.php(17): Installer->__construct()
+#10 /home3/rnsinpcq/drive.santoshkr.in/public/install_files/install.php(1): include('/home3/rnsinpcq...')
+#11 /home3/rnsinpcq/drive.santoshkr.in/public/index.php(3): require_once('/home3/rnsinpcq...')
+#12 {main}
+  thrown in /home3/rnsinpcq/drive.santoshkr.in/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 13
+[30-Jan-2024 22:46:34 UTC] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught  in /home3/rnsinpcq/drive.santoshkr.in/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 13
