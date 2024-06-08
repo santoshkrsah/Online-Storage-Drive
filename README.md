@@ -12,3 +12,4 @@ Remove all user files when user is deleted from admin area.
 Add several missing translation lines.
 New Features
 Built in contact page with google recaptcha integration.(it is on progress)
+and also login option are available on it 
