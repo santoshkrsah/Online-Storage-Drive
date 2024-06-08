@@ -11,4 +11,4 @@ Correctly generate zip file structure when downloading multiple files or folders
 Remove all user files when user is deleted from admin area.
 Add several missing translation lines.
 New Features
-Built in contact page with google recaptcha integration. 
+Built in contact page with google recaptcha integration.(it is on progress)
