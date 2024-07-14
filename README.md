@@ -1,5 +1,5 @@
 # Online-Storage-drive nan as sdrive
-This Code is only for Learning purposes and it is also working 
+This Code is only for Learning purposes and it is also working condition 
 **Version 2.0.5**
 Bug Fixes
 Show files in "trash", "shared", "starred" and "recent" pages, if parent folder of those files is not marked for those pages.
