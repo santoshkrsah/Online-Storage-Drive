@@ -1,7 +1,7 @@
 # Online-Storage-drive nan as sdrive
 This Code is only for Learning purposes and it is also working condition 
-**Version 2.0.5**hg
-Bug Fixesh
+**Version 2.0.5**
+Bug Fixe
 Show files in "trash", "shared", "starred" and "recent" pages, if parent folder of those files is not marked for those pages.
 Use regular file or folder context menu in "starred" and "recent" page.
 Fix "download" button in generic file preview overlay.
