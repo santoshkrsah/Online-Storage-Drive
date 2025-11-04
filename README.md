@@ -12,5 +12,6 @@ Remove all user files when user is deleted from admin area.
 Add several missing translation lines.
 New Features
 Built in contact page with google recaptcha integration.(it is on progress)
-and also login through google option are available on it...
-This is demo URL for testing  https://drive.santoshkr.in/ 
+and also login through google option are available on it.
+This is demo URL for testing  https://drive.santoshkr.in/
+Now you can visit my site  www.santoshkr.in 
