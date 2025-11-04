@@ -14,4 +14,4 @@ New Features
 Built in contact page with google recaptcha integration.(it is on progress)
 and also login through google option are available on it.
 This is demo URL for testing  https://drive.santoshkr.in/
-Now you can visit my site  www.santoshkr.in 
+Now you can visit my site  https://www.santoshkr.in 
